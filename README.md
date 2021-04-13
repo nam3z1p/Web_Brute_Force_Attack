@@ -6,7 +6,6 @@ How to:
 
 ```
 usage: Web_Brute_Force_Attack_v0.3.py 
-
 ```                   
 
 # Pre-requisites
@@ -15,7 +14,13 @@ To use Web_Brute_Force_Attack you need to have pyautogui, ctypes installed on yo
 ```
  pip install pyautogui
  pip install ctypes
- 
 ```
+
+# Disclaimer
+This is version of the software, so I expect some bugs to be present
+I am not a developer, so my coding skills might not be the best
+This tool has been tested on a Windows 10.
+
+Any suggestions and comments are welcome!
 
 
